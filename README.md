@@ -25,4 +25,6 @@ This project demonstrates the process of building a custom DataLoader using the 
    - Tracks performance by visualizing loss and accuracy curves over the training process
 
 
-![FashionMNIST Sample](https://github.com/username/repository-name/blob/main/images/sample_image.png)
+![Sample](https://github.com/ARAF-55/DataLoader_Building_from_customdata_in_PYTORCH/blob/master/1.png)
+![Sample](https://github.com/ARAF-55/DataLoader_Building_from_customdata_in_PYTORCH/blob/master/2.png)
+![Sample](https://github.com/ARAF-55/DataLoader_Building_from_customdata_in_PYTORCH/blob/master/3.png)
